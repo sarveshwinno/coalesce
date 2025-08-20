@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "2"
+includeSelector: " { location: SRC name: NATION } or { location: SRC name: LINEITEM } or { location: SRC name: CUSTOMER }  or { location: TARGET name: STG_CUSTOMER }"
+name: create_x_job
+type: Job
