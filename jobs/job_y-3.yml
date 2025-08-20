@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "3"
+includeSelector: "{ location: SRC name: REGION } OR { location: TARGET name: STG_REGION }"
+name: job_y
+type: Job
